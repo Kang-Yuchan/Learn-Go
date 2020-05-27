@@ -1,7 +1,10 @@
 package main
 
-import "std/github.com/Kang-Yuchan/learngo/something"
+import "fmt"
+
+const miku string = "Ashiwake Miku"
 
 func main() {
-	something.SayBye()
+	myName := "Kang Yuchan"
+	fmt.Println(myName, miku)
 }
