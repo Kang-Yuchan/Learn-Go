@@ -5,4 +5,4 @@
 - [x] Install
 - [x] Package and Imports
 - [x] Constants and Variables
-- [ ] Functions
+- [x] Functions
